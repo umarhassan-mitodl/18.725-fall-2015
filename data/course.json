@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "5847ba12-a1a6-7bd6-4c88-48540eb326ea",
+  "instructors": {
+    "content": [
+      "cfd0eb62-14b6-b069-561e-c410b788dd03"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7189465a-ad2d-9ddb-7ece-9baf6f5a92f4",
+    "website": "18-725-algebraic-geometry-fall-2015"
+  },
+  "course_title": "Algebraic Geometry",
+  "hide_download": false,
+  "course_description": "This is the first semester of a two-semester sequence on Algebraic Geometry. The goal of the course is to introduce the basic notions and techniques of modern algebraic geometry. It covers fundamental notions and results about algebraic varieties over an algebraically closed field; relations between complex algebraic varieties and complex analytic varieties; and examples with emphasis on algebraic curves and surfaces. This course is an introduction to the language of schemes and properties of morphisms.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.725",
+  "course_image_thumbnail": {
+    "content": "0c34883e-41c5-5642-a731-005844ed1e39",
+    "website": "18-725-algebraic-geometry-fall-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "e4929c70-04fa-41fc-8f1a-bff68fb7623a",
+  "site_short_id": "18.725-fall-2015",
+  "site_url_path": "courses/18-725-algebraic-geometry-fall-2015",
+  "title": "Course Metadata"
+}
